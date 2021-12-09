@@ -1,0 +1,2 @@
+# TheOdinProject
+Just learning odin
